@@ -1,6 +1,6 @@
-Projeto das disciplinas SGE/GPN da graduação de SI - UFPE
+# gestao-do-teletrabalho
 
-Trata-se do entendimento do modelo de processo e solução para os problemas encontrados na atual situação da gestão do teletrabalho no setor da PROGEPE - UFPE.
+Trata-se das entregas dos artefatos referentes às disciplinas de GPN, PGP E SGE para os problemas encontrados na atual situação da Gestão do Teletrabalho no setor da PROGEPE - UFPE.
 
 Composto por:
 

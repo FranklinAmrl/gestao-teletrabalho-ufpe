@@ -15,3 +15,7 @@ Composto por:
   Cliente:
 
     Marlos Ribeiro
+
+Gerenciamento de tarefas através de método kanban:
+
+https://trello.com/b/lcnyjXvo/gest%C3%A3o-do-teletrabalho
